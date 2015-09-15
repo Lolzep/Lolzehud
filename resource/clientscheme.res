@@ -2694,7 +2694,7 @@ Scheme
 		}
 	
 	
-			StiluRegular32
+		StiluRegular32
 		{
 			"1"
 			{
@@ -2705,7 +2705,7 @@ Scheme
 		}
 	
 	
-			StiluRegular36
+		StiluRegular36
 		{
 			"1"
 			{
@@ -2716,7 +2716,7 @@ Scheme
 		}
 	
 	
-			StiluRegular42
+		StiluRegular42
 		{
 			"1"
 			{
@@ -2727,7 +2727,7 @@ Scheme
 		}
 	
 	
-			StiluRegular48
+		StiluRegular48
 		{
 			"1"
 			{
@@ -2738,11 +2738,111 @@ Scheme
 		}
 	
 	
-			StiluRegular54
+		StiluRegular54
 		{
 			"1"
 			{
 				"name"		"Stilu"
+				"tall"		"54"
+				"antialias" "1"
+			}
+		}
+		
+	////////// BOLD FONTS
+	
+		StiluBold12
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold16
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold18
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		
+		StiluBold24
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold32
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold36
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold42
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold48
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+	
+	
+		StiluBold54
+		{
+			"1"
+			{
+				"name"		"Stilu Bold"
 				"tall"		"54"
 				"antialias" "1"
 			}
